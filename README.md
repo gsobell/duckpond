@@ -3,14 +3,17 @@
 a duckpond for your terminal
 
 ```
-                  _
-        quack!  >|.|_
-                 |___|
+                      _
+            quack!  >|.|_
+                     |___|
 ```
 
 ## usage
+to visit the pond without installing:
 
-### installation 
+```shell
+python <(curl -s https://raw.githubusercontent.com/gsobell/duckpond/main/duckpond.py)
+```
 
 ## features
 
@@ -28,4 +31,4 @@ a duckpond for your terminal
 - rain (lovely weather for ducks!)
 
 ---
-This is my first project after learning `haskell`; it really does open up your mind to a new way of doing things.
+This is my first project since learning `haskell`; it really does open up your mind to a different way of thinking.
